@@ -1,0 +1,16 @@
+[
+{
+	"modid": "winecraft",
+	"name": "Winecraft",
+	"description": "Grow Grapes and make wine",
+	"version": "0.0.1",
+	"authorList": [
+	"orangamunk",
+	"Th3Purpl3Monki3s",
+	"karkanor"
+	],
+	"credits": "By karkanor orangamunk and Th3Purpl3Monki3s based on real grapes",
+	"logoFile": "/mods/Winecraft/Textures/forge_logo.png",
+
+}
+]
